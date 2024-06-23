@@ -12,7 +12,7 @@ class MainMenu {
     System.out.println("\t\t\t  EMPLOYEE MANAGEMENT SYSTEM");
     System.out.println("\t\t*******************************************");
     System.out.println("\t\t\t    --------------------");
-    System.out.println("\t\t\t     ~$ Abhinav Dubey");
+    System.out.println("\t\t\t     ~$ Pratik Karna");
     System.out.println("\t\t\t    --------------------");
     System.out.println("\n\nPress 1 : To Add an Employee Details");
     System.out.println("Press 2 : To See an Employee Details ");
@@ -141,7 +141,7 @@ class CodeExit {
     System.out.println("\n*****************************************");
     System.out.println("$ cat Thank You For Using my Software :) ");
     System.out.println("*****************************************");
-    System.out.println("\t\t/~ <0d3d by Abhinav Dubey\n");
+    System.out.println("\t\t/~ <0d3d by Pratik Karna\n");
     System.exit(0);
   }
 }
